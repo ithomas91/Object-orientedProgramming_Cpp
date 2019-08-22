@@ -1,4 +1,4 @@
-# Object-orientedProgramming_Cpp
+# Object oriented programming - C++
 Pirate:
  
  - A pirate has a name, an amount of gold and health points, the default value of which is 10.
