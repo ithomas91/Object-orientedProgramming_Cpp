@@ -1,4 +1,17 @@
 # Object oriented programming exercise - C++
+
+Imagine a privateer, which contain pirates, and a captain too. 
+Pirates can be:
+- captain
+- with wooden leg
+- poor / les than 15 golds/
+
+Pirates can:
+- work // they get some plus health points and golds up to captain or not //
+- party // they get more health points //
+
+
+
 Pirate:
  
  - A pirate has a name, an amount of gold and health points, the default value of which is 10.
